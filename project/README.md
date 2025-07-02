@@ -1,4 +1,4 @@
-# StudyAI - AI-Powered Study Tools Platform
+# StudyBOT- AI-Powered Study Tools Platform
 
 A comprehensive study platform powered by Google's Gemini 2.0 API, built with React, Node.js, MongoDB, and Tailwind CSS.
 
@@ -28,8 +28,8 @@ A comprehensive study platform powered by Google's Gemini 2.0 API, built with Re
 ## Installation
 
 ### Prerequisites
-- Node.js (v16 or higher)
-- MongoDB (local or cloud instance)
+- Node.js 
+- MongoDB 
 - Google Gemini API key
 
 ### Setup Instructions

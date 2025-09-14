@@ -173,17 +173,3 @@ studyai-platform/
 - **LinkedIn**: [https://www.linkedin.com/in/pulivarthi-mythri/](https://www.linkedin.com/in/pulivarthi-mythri/)
 - **Twitter/X**: [https://x.com/mythri577721](https://x.com/mythri577721?t=de0VB7NY9090_PZYJE9dzQ&s=09)
 
-## License
-
-This project is licensed under the MIT License - see the LICENSE file for details.
-
-## Acknowledgments
-
-- Google's Gemini 2.0 API for AI capabilities
-- React and the amazing open-source community
-- Tailwind CSS for beautiful styling
-- MongoDB for flexible data storage
-
----
-
-Built with ❤️ using React, Node.js, MongoDB, and Google's Gemini 2.0 API

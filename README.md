@@ -29,7 +29,7 @@ Improves user engagement and accessibility
 
 🖥️ Frontend (User Interface)
 
-Angular – Core framework
+React – Core framework
 
 HTML5 – Structure and content
 
